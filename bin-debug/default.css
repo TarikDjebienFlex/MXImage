@@ -1,0 +1,10 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+
+.message {
+	fontWeight: bold;
+	color: #6b93aa;
+	fontSize: 16px;
+}
+
